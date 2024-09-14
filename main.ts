@@ -1,20 +1,9 @@
-
-/**
-* Use this file to define custom functions and blocks.
-* Read more at https://minecraft.makecode.com/blocks/custom
-*/
-
 enum MyEnum {
     //% block="one"
     One,
     //% block="two"
     Two
 }
-
-/**
- * Custom blocks
- */
-//% weight=100 color=#0fbc11 icon=""
 namespace custom {
     /**
      * TODO: describe your function here
